@@ -17,4 +17,4 @@ class Friend {
         self.name = name
         self.birthday = birthday
     }
-}
+        }
